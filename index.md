@@ -1,6 +1,6 @@
 ## Welcome to my homepage
 
-![Image](tokyo_tower.jpg)
+<img src="tokyo_tower.jpg" alt="picture" width="200" height="300" />
 
 
 ### Education

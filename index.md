@@ -1,37 +1,20 @@
-## Welcome to GitHub Pages
+## Welcome to my homepage
 
-You can use the [editor on GitHub](https://github.com/ZVengin/zvengin/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+![Image](photo.jpg)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+### Education
+- 2013 ~ 2017: Bachelor degree at University of Science and Technology of China
+- 2017 ~ 2019: Master degree at National Institue of Informatics, Tokyo, Japan
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Experience
+- 2017 ~ 2018: Research assistant at National Institute of Informatics
+- 2018 ~ 2019: Technical assistant at The University of Tokyo
+- 2018 ~ 2019: Special research student at The University of Tokyo
 
-```markdown
-Syntax highlighted code block
+### Research Interest
+- Computer Vision and Natural Language Processing
+- Reinforcement Learning
+- Semi-supervised Learning
 
-# Header 1
-## Header 2
-### Header 3
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/ZVengin/zvengin/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.

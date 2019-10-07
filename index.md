@@ -1,7 +1,7 @@
 ## Welcome to my homepage
-
+<center>
 <img src="tokyo_tower.jpg" alt="picture" width="200" height="300" style="position:absolute;left:50%"/>
-
+</center>
 
 ### Education
 - 2013 ~ 2017: Bachelor degree at University of Science and Technology of China

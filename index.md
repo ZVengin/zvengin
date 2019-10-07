@@ -1,6 +1,7 @@
 ## Welcome to my homepage
 
 <img src="tokyo_tower.jpg" alt="picture" width="250" height="380" align="right"/>
+
 ### Info
 I am a master student of the second grade at the National Institute of Infomatics, Japan. Currently I 
 am exploring how to control the generation of sentences, including image captions, etc.,
